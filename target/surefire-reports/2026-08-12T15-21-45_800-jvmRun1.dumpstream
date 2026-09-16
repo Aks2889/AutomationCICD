@@ -1,0 +1,24 @@
+# Created at 2026-08-12T15:22:00.941
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2026-08-12T15:22:00.966
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2026-08-12T15:22:00.983
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 167056 bytes for Chunk::new'.
+
+# Created at 2026-08-12T15:22:00.994
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2026-08-12T15:22:01.241
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# F:\Eclipse\SeleniumFrameworkDesign\hs_err_pid14740.log'.
+
+# Created at 2026-08-12T15:22:01.241
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2026-08-12T15:22:01.249
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
+# Created at 2026-08-12T15:22:01.279
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# F:\Eclipse\SeleniumFrameworkDesign\replay_pid14740.log'.
+
